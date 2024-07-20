@@ -14,4 +14,4 @@
 > [!TIP]
 > ### Diagrama Topologico:
 
-> ![IMAGEN de muestra.](/topologia/topologia.png "Vista de la Topologia.")
+> ![IMAGEN de muestra.](/topologia.png "Vista de la Topologia.")
